@@ -1,0 +1,9 @@
+C:\Users\james.m.gress\Source\Repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoOrganizer\bin\Debug\UltimatePhotoOrganizer.exe.config
+C:\Users\james.m.gress\Source\Repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoOrganizer\bin\Debug\UltimatePhotoOrganizer.exe
+C:\Users\james.m.gress\Source\Repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoOrganizer\bin\Debug\UltimatePhotoOrganizer.pdb
+C:\Users\james.m.gress\Source\Repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoOrganizer\obj\Debug\UltimatePhotoOrganizer.csprojAssemblyReference.cache
+C:\Users\james.m.gress\Source\Repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoOrganizer\obj\Debug\UltimatePhotoOrganizer.Properties.Resources.resources
+C:\Users\james.m.gress\Source\Repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoOrganizer\obj\Debug\UltimatePhotoOrganizer.csproj.GenerateResource.cache
+C:\Users\james.m.gress\Source\Repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoOrganizer\obj\Debug\UltimatePhotoOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\james.m.gress\Source\Repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoOrganizer\obj\Debug\UltimatePhotoOrganizer.exe
+C:\Users\james.m.gress\Source\Repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoOrganizer\obj\Debug\UltimatePhotoOrganizer.pdb

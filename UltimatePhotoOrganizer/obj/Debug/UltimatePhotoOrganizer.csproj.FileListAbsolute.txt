@@ -7,3 +7,4 @@ C:\Users\james.m.gress\Source\Repos\jamesgress\UltimatePhotoOrganizer\UltimatePh
 C:\Users\james.m.gress\Source\Repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoOrganizer\obj\Debug\UltimatePhotoOrganizer.csproj.CoreCompileInputs.cache
 C:\Users\james.m.gress\Source\Repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoOrganizer\obj\Debug\UltimatePhotoOrganizer.exe
 C:\Users\james.m.gress\Source\Repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoOrganizer\obj\Debug\UltimatePhotoOrganizer.pdb
+C:\Users\james.m.gress\Source\Repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoOrganizer\obj\Debug\UltimatePhotoOrganizer.Form1.resources

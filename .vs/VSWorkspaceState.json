@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
-    "",
     "\\.github",
+    "\\.github\\workflows",
     "\\UltimatePhotoOrganizer"
   ],
-  "SelectedNode": "\\UltimatePhotoOrganizer\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

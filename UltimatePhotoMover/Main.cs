@@ -37,7 +37,7 @@ namespace UltimatePhotoMover
         public Main()
         {
             InitializeComponent();
-            rm = new ResourceManager("Formatter.Resources", this.GetType().Assembly);
+            rm = new ResourceManager("UltimatePhotoMover.Resources", this.GetType().Assembly);
         }
 
         private void Form1_Load(object sender, EventArgs e)

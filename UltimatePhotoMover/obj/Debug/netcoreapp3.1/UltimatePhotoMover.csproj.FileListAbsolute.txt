@@ -11,3 +11,5 @@ C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePh
 C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\obj\Debug\netcoreapp3.1\UltimatePhotoMover.dll
 C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\obj\Debug\netcoreapp3.1\UltimatePhotoMover.pdb
 C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\obj\Debug\netcoreapp3.1\UltimatePhotoMover.genruntimeconfig.cache
+C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\obj\Debug\netcoreapp3.1\UltimatePhotoMover.Resources.resources
+C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\obj\Debug\netcoreapp3.1\UltimatePhotoMover.csproj.GenerateResource.cache

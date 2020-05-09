@@ -1,0 +1,13 @@
+C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\bin\Debug\netcoreapp3.1\UltimatePhotoMover.exe
+C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\bin\Debug\netcoreapp3.1\UltimatePhotoMover.deps.json
+C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\bin\Debug\netcoreapp3.1\UltimatePhotoMover.runtimeconfig.json
+C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\bin\Debug\netcoreapp3.1\UltimatePhotoMover.runtimeconfig.dev.json
+C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\bin\Debug\netcoreapp3.1\UltimatePhotoMover.dll
+C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\bin\Debug\netcoreapp3.1\UltimatePhotoMover.pdb
+C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\obj\Debug\netcoreapp3.1\UltimatePhotoMover.csprojAssemblyReference.cache
+C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\obj\Debug\netcoreapp3.1\UltimatePhotoMover.csproj.CoreCompileInputs.cache
+C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\obj\Debug\netcoreapp3.1\UltimatePhotoMover.AssemblyInfoInputs.cache
+C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\obj\Debug\netcoreapp3.1\UltimatePhotoMover.AssemblyInfo.cs
+C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\obj\Debug\netcoreapp3.1\UltimatePhotoMover.dll
+C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\obj\Debug\netcoreapp3.1\UltimatePhotoMover.pdb
+C:\Users\james.m.gress\source\repos\jamesgress\UltimatePhotoOrganizer\UltimatePhotoMover\obj\Debug\netcoreapp3.1\UltimatePhotoMover.genruntimeconfig.cache
